@@ -1,2 +1,7 @@
-data/UCI_Credit_Card.csv
+
 .vscode/
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+.envx
